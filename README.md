@@ -1,2 +1,3 @@
 # JoHurt77.github.io
- Mi página de Pokémon
+
+Este es un proyecto personal para familiarizarme con el uso de boostrap.
